@@ -444,6 +444,7 @@ footer h4 {
 @media screen and (max-width: 727px) {
   svg {
     height: 60%;
+    margin-bottom: 3rem;
   }
   .main-head {
     width: 100%;
@@ -510,6 +511,9 @@ footer h4 {
   .intro-social a {
     margin: 2rem;
   }
+  .projects{
+    margin-bottom: 3rem;
+  }
   .elena,
   .travelly {
     -webkit-box-flex: 1;
@@ -523,7 +527,10 @@ footer h4 {
   }
   form {
     padding: 0rem;
-    width: 95%;
+    width: 100%;
+  }
+  footer{
+    min-height: 9vh;
   }
   footer h4 {
     padding-bottom: 4rem;
