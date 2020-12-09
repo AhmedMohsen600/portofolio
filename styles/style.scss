@@ -36,6 +36,7 @@ $gray-text: #2c2c2c;
 @media screen and (max-width: 727px) {
   svg {
     height: 60%;
+    padding-bottom: 4rem;
   }
   .main-head {
     width: 100%;
@@ -78,7 +79,7 @@ $gray-text: #2c2c2c;
     width: 100%;
   }
   footer {
-    min-height: 10vh;
+    min-height: 9vh;
     h4 {
       padding-bottom: 4rem;
       padding-top: 2rem;
